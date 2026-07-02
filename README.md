@@ -16,12 +16,7 @@ DevDeck presenta siete herramientas como cartas de un mazo: Identity, Timeline, 
 
 - **Flutter** / **Dart**
 - **Material Design 3** (tema oscuro)
-- **Provider** — manejo de estado
 - **http** — consumo de APIs REST
-- **google_fonts** — tipografía Inter
-- **url_launcher** — enlaces externos, correo (`mailto:`) y teléfono (`tel:`)
-- **audioplayers** — reproducción del cry oficial de Pokémon
-- **intl** — formateo de fechas
 
 ---
 
