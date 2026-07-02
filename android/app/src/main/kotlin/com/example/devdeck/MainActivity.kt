@@ -1,4 +1,4 @@
-package com.example.devdeck
+package com.sebastianpilier.devdeck
 
 import io.flutter.embedding.android.FlutterActivity
 
