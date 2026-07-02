@@ -48,7 +48,7 @@ DevDeck presenta siete herramientas como cartas de un mazo: Identity, Timeline, 
 ### Pasos
 
 ```bash
-git clone [<url-del-repositorio>](https://github.com/CBAST-and/devdeck.git)
+git clone https://github.com/CBAST-and/devdeck.git
 cd devdeck
 flutter pub get
 flutter run
