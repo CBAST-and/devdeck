@@ -1,0 +1,35 @@
+name: devdeck
+description: "Every card unlocks a new tool."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  url_launcher: ^6.3.1
+  audioplayers: ^6.1.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo/
+    - assets/images/timeline/
+    - assets/images/contact/
+    - assets/images/cards/
+    - assets/images/newsroom/
+    - assets/images/pokemon/
