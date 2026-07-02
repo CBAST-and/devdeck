@@ -42,13 +42,13 @@ DevDeck presenta siete herramientas como cartas de un mazo: Identity, Timeline, 
 
 ### Requisitos previos
 - Flutter SDK instalado (`>=3.3.0`)
-- Un editor compatible (Android Studio, VS Code)
+- Un editor compatible (Ej: VS Code)
 - Un emulador o dispositivo Android conectado
 
 ### Pasos
 
 ```bash
-git clone <url-del-repositorio>
+git clone [<url-del-repositorio>](https://github.com/CBAST-and/devdeck.git)
 cd devdeck
 flutter pub get
 flutter run
